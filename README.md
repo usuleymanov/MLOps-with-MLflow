@@ -12,6 +12,7 @@ In this project, I aim at developing an end-to-end Machine Learning project, fro
 - Monitoring
 
 ## Data Science Process
+There are various standarts in the industry which describes data science process. The CRoss Industry Standard Process for Data Mining (CRISP-DM) is one of those process models that serves as the base for a data science process. The CRISP-DM process is a widely utilezed to manage the lifecycle of data science / machine learning projects. The below diagram depicts 6 main phases that any data science project goes through:
 
 ## MLflow Introduction
 The machine learning (ML) life cycle encompases many phases. In this project, I will utilize open source platform called MLflow that focuses on reproducibility, training, and deployment. With clients in Python and Java and a REST API, it is built on an open interface architecture and compatible with any platform or language. Another significant advantage that an ML developer may take use of using MLflow is scalability.
