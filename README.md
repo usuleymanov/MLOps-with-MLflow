@@ -12,7 +12,7 @@ In this project, I aim at developing an end-to-end Machine Learning project, fro
 - Monitoring
 
 ## Data Science Process
-When we try to solve a complex problem, we generally need a framework and a systematic way of aligning steps and their outcomes. Data Science Process provides exactly that, namely a systematic way of breaking down the data science problem into smaller steps and proviing guidance what should be the outcoems of each phases. There are various standarts in the industry which describe data science process. The CRoss Industry Standard Process for Data Mining (CRISP-DM) is one of those process models that serves as the base for a data science process. The CRISP-DM process is widely utilized to manage the lifecycle of data science / machine learning projects. The project in this model goes through 6 main phases and the below diagram depicts them:
+When we try to solve a complex problem, we generally need a framework and a systematic way of aligning steps and their outcomes. Data Science Process provides exactly that, namely a systematic way of breaking down the data science problem into smaller steps and providing guidance on what should be the outcomes. There are various standarts in the industry which describe data science process. The CRoss Industry Standard Process for Data Mining (CRISP-DM) is one of those process models that serves as the base for a data science process. The CRISP-DM process is widely utilized to manage the lifecycle of data science / machine learning projects. The project in this model goes through 6 main phases and the below diagram depicts them:
 
 | ![CRSIP-DM](https://www.datascience-pm.com/wp-content/uploads/2021/02/CRISP-DM.png) |
 |:--:|
