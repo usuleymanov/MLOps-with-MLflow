@@ -19,7 +19,7 @@ When we try to solve a complex problem, we generally need a framework and a syst
 | <b>CRISP-DM Diagram. Source: Data Science Process Alliance</b>|
 
 ## MLflow Introduction
-The machine learning (ML) life cycle encompases many phases. In this project, I will utilize open source platform called MLflow that focuses on reproducibility, training, and deployment. With clients in Python and Java and a REST API, it is built on an open interface architecture and compatible with any platform or language. Another significant advantage that an ML developer may take use of using MLflow is scalability.
+The machine learning (ML) life cycle encompases many phases. In this project, I will utilize open source platform called MLflow. It provides rich set of interfaces to different languages such as Python, Java and allows to manage machine learning lifecycle. And it is open source:)
 
 It is often the case that the tools and paradims used by data scientist who train the machine learning models and machine learning engineers who scale the machine learning system up and productionize it differ significantly due to the nature of their work. Hence, often there occurs friction between data science and engineering teams when the models goes into production. Many companies have developed their in-house tools in order to alleviate the friction and provide one solution which can be used from model development until model production. MLflow is one of such tools which is developed by Databricks and opensourced as a ML framework.
 
